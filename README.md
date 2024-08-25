@@ -4,4 +4,6 @@ Este é um jogo clássico que utiliza as 28 bandeiras dos estados brasileiros. S
 
 Foi utilizado pacote pyGame
 
-![image](https://github.com/user-attachments/assets/5544b9e8-dc0e-4d97-b4d7-4032076559d3)
+![image](https://github.com/user-attachments/assets/eaa49413-64b8-462f-8701-ce090f3932bb)
+
+
